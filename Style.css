@@ -1,7 +1,7 @@
-#rojo 
-{ 
-    color: rgb(255, 0, 0);
+#rojo{ 
+    color: red;
     text-aling: right;
-}.rojo {
+}
+.rojo{
     color: red;
 }
